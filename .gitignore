@@ -3,10 +3,4 @@ __pycache__/
 .venv/
 venv/
 .env
-data/*
-!data/.gitkeep
-results/*
-!results/.gitkeep
-plots/*
-!plots/.gitkeep
-.DS_Store
+
